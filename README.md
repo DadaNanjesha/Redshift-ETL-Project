@@ -2,7 +2,7 @@
 
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/) [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-3.0%2B-orange.svg)](https://spark.apache.org/) [![AWS Redshift](https://img.shields.io/badge/AWS%20Redshift-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/redshift/) [![Hadoop](https://img.shields.io/badge/Hadoop-3.x%20-green.svg)](https://hadoop.apache.org/) [![Sqoop](https://img.shields.io/badge/Sqoop-1.4.7-brightgreen.svg)](https://sqoop.apache.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-**Data Engineering ETL Assignment** is a comprehensive project demonstrating data ingestion, ETL processes, and analytical querying using AWS Redshift, Apache Spark, and Sqoop. The project covers the complete data pipeline—from importing data from an RDS source to HDFS using Sqoop, processing data with Spark, to executing analytical queries on an AWS Redshift cluster.
+**Data Engineering ETL Project** is a comprehensive project demonstrating data ingestion, ETL processes, and analytical querying using AWS Redshift, Apache Spark, and Sqoop. The project covers the complete data pipeline—from importing data from an RDS source to HDFS using Sqoop, processing data with Spark, to executing analytical queries on an AWS Redshift cluster.
 
 ---
 
